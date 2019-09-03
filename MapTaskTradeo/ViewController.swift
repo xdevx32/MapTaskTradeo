@@ -183,22 +183,3 @@ class ViewController: UIViewController, MKMapViewDelegate {
     
     
 }
-
-
-
-//leftovers
-
-
-
-// print("Time:", levels["properties"]!!["time"]! as! NSInteger)
-/* let epocTime = NSTimeInterval(1429162809359) / 1000
-
-let myDate = NSDate(timeIntervalSince1970:  epocTime)
-
-print("Converted Time \(myDate)")
-
-
-//  print((levels.objectForKey("properties"))!.objectForKey("time"))
-//print(levels.objectForKey("properties"))
-
-*/
